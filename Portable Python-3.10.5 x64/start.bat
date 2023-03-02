@@ -1,0 +1,1 @@
+start .\App\Python\python.exe .\convertor.py
